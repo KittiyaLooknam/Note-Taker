@@ -3,7 +3,7 @@
 An app for creating, saving, editing and deleting plain text notes.
 
 # Description 
-This is a simple note-taking app that allows the user to create, save, edit, and delete text-based notes.
+This is a simple note-taking app that allows the user to create, save, and delete text-based notes.
 
 # Table of Contents
 - Installation
