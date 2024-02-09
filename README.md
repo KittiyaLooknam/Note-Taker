@@ -24,6 +24,11 @@ Access the aplication at the deployed URL : https://github.com/KittiyaLooknam/No
 
 To creat the a note will require title and text when you finish  click on "save" button. To view all saved notes click on "view notes" the see the save view. The red delete icon to delete a note.
 
+![alt text](image.png)
+
+
+This is the demo VDO : https://youtu.be/wCeG-RGciy8?si=WtZ0s48VR2VIZUcT
+
 # Credits 
 Thank you Louis Delia Tech Bootcamp Coding
 
