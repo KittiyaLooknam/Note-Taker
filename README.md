@@ -3,7 +3,7 @@
 An app for creating, saving, editing and deleting plain text notes.
 
 # Description 
-This is a simple note-taking app that allows the user to create, save, edit, and delete text-based notes.
+This is a simple note-taking app that allows the user to create, save, and delete text-based notes.
 
 # Table of Contents
 - Installation
@@ -39,6 +39,6 @@ https://nodejs.org/en/docs/guides/getting-started-guide
 [This project is licensed under the MIT license.](https://img.shields.io/badge/license-MIT-blue)
 
 # Questions 
-If you have any questions about this repo, please feel free to contact me at my email : kittya.goldberg1@hmail.com and Github profile : KittiyaLooknam
+If you have any questions about this repo, please feel free to contact me at my email : kittiya.goldberg1@gmail.com and Github profile : KittiyaLooknam
 
 
